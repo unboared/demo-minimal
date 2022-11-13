@@ -1,20 +1,19 @@
-# Unboared game (React Demo)
+# Unboared game (minimal demo)
+
 ![node](https://img.shields.io/badge/node-16.16.0-brightgreen)
 ![npm](https://img.shields.io/badge/npm-8.16.0-blue)
-[![unboared](https://img.shields.io/badge/unboared-0.1.1-%23FF2453)](https://bit.cloud/unboared/native/lib?version=0.1.1)
+[![unboared](https://img.shields.io/badge/unboared-0.1.0-%23FF2453)](https://bit.cloud/unboared/native/lib?version=0.1.0)
 
 ## Ce que contient ce template
 
 Une démo de jeu simple utilisant la technologie Unboared. 
 
 Plus précisement:
-- la déclaration d'un jeu *Unboared* avec deux sous applications:
+- la déclaration d'un jeu <span style="color:#FF2453">Unboared</span> avec deux sous applications:
   - l'application côté ***screen***
   - l'application côté ***gamepad***
 - l'utilisation classique de la *lib unboared* (communication entre appareils, données des joueurs)
-- la déclaration et la gestion des scènes
-- l'utilisation d'états du jeu partagés
-- la gestion des langues
+
 
 ## Créer un jeu depuis ce template 
 - Cliquer sur le bouton : `Use this template` ci-dessus
